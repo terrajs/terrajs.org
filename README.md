@@ -1,6 +1,6 @@
-# terrajs.com
+# terrajs.org
 
-> Terra JS Website (terrajs.com)
+> Terra JS Website (terrajs.org)
 
 ## Build Setup
 

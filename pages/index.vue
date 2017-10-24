@@ -6,13 +6,14 @@
         Terra JS
       </h1>
       <h2 class="subtitle">
-        Open Source Software organization that seeks to improve developers life
+        Open Source Collective making modules for Node.js and Vue.js
       </h2>
       <div class="links">
         <a href="https://github.com/terrajs" target="_blank" class="button--grey">GitHub</a>
+        <a href="https://twitter.com/terra_js" target="_blank" class="button--grey">Twitter</a>
       </div>
       <h3 class="repos-title">
-        Our projects
+        Projects
       </h3>
       <div class="repos">
         <div class="repo" v-for="repo in repos" :key="repo.id">
