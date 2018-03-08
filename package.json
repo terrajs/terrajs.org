@@ -14,19 +14,19 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^3.1.2",
-    "nuxt": "^1.0.0-rc3"
+    "@nuxtjs/axios": "3.1.4",
+    "nuxt": "1.0.0-rc9"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^4.3.0",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-loader": "^1.9.0",
-    "eslint-plugin-html": "^3.1.1",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-node": "^5.1.1",
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1",
-    "push-dir": "^0.4.1"
+    "babel-eslint": "7.2.3",
+    "eslint": "4.9.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-loader": "1.9.0",
+    "eslint-plugin-html": "3.2.2",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-node": "5.2.1",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-standard": "3.0.1",
+    "push-dir": "0.4.1"
   }
 }
