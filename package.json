@@ -14,7 +14,7 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "@nuxtjs/axios": "3.1.4",
+    "@nuxtjs/axios": "5.1.1",
     "nuxt": "1.0.0-rc9"
   },
   "devDependencies": {
